@@ -29,7 +29,7 @@ Our Easy Ensemble AdaBoost Classifier yielded an accuracy score of .93, and the 
 <img width="710" alt="Screen Shot 2022-04-30 at 10 15 28 PM" src="https://user-images.githubusercontent.com/4724180/166130682-abaf3ef7-a2d6-47ec-8bf3-5b28d5ba57ee.png">
 
 ## Analysis Summary
-*This summary is still a work in progress. This summary slapped Chris Rock.
+*This summary is still a work in progress. This summary slapped Chris Rock. I know these conclusions are reached through flawed analysis, even if they're correct.*
 
 The score we care about most if we want to reduce the chances of lending money to someone who won't repay it is the F1 score in the high risk category. That's what shows how many loans we thought predicted would be repaid and weren't. 
 
